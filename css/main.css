@@ -98,7 +98,6 @@ nav{
 	height: 450px;
 	position: relative;
 	margin: 0 auto;
-	margin-left: 20%;
 	top: 100px;
 	display: inline-block;
 }
@@ -107,11 +106,12 @@ nav{
 	float: left;
 	display: inline;
 }
-.ihp{
-	width: 20%;
-	margin: 0;
-	display: inline;
-
+.ihp {
+    width: 33.333%;
+    float: left;
+    text-align: center;
+    padding: 5px;
+    box-sizing: border-box;
 }
 .icon{
 	width: 20%;
